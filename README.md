@@ -1,5 +1,5 @@
 
-<img src="./includebraga.gif" alt="Coding" width="400px" align="center"><br><br>
+<img src="./includebraga.gif" alt="Coding" width="400px" align="center">
 <h1 align="center">Hi 👋, I'm Ratnesh</h1>
 <h3 align="center">A passionate developer and A programmer from India</h3>
 
