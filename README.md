@@ -1,6 +1,6 @@
 
 <img src="./includebraga.gif" alt="Coding" width="400px" align="center">
-<h1 align="center">Hi 👋, I'm Ratnesh</h1>
+<h1 align="left">Hi 👋, I'm Ratnesh</h1>
 <h3 align="center">A passionate developer and A programmer from India</h3>
 
 - 📫 How to reach me <a href="https:ratneshpatel8815@gmail.com"> contact me</a><br>
