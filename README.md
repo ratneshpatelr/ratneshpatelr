@@ -1,7 +1,7 @@
 
 <img src="./includebraga.gif" alt="Coding" width="1000px" align="center">
 <h1 align="center">Hi 👋, I'm Ratnesh</h1><br>
-<h3 align="center">A passionate developer and A programmer from India. who like to do challenges that take me out to the next level coder. I consider myself as a responsible person, In more spare time, I like to playing cricket </h3>
+<h3 align="center">A passionate developer and A programmer from India. who like to do challenges that take me to the next level coder. I consider myself as a responsible person, In more spare time, I like to playing cricket </h3>
 
 - 📫 How to reach me: <a href="https:ratneshpatel8815@gmail.com"> contact me</a><br>
 
