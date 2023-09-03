@@ -43,19 +43,6 @@ I'm a passionate and creative web developer from [India](https://www.google.com/
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ratnesh-patel-064682240" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratnesh-patel-064682240" height="30" width="40" /></a>
-<a href="https://instagram.com/ratnesh_patel.8815" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ratnesh_patel.8815" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@patelratnesh54" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@patelratnesh54" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ratneshpatel8815" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ratneshpatel8815" height="30" width="40" /></a>
-</p>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratneshpatelr" alt="ratneshpatelr" /></a> </p>
 
 
