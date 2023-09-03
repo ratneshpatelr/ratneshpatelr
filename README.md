@@ -2,19 +2,18 @@
 
 I'm a passionate and creative web developer from [India](https://www.google.com/maps/place/India/@4,-72z/)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 - 🌱 I’m currently learning **development**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-2023-gamma-ruby.vercel.app/](https://portfolio-2023-gamma-ruby.vercel.app/)
-
 - 💬 Ask me about **web development**
-
 - 📫 How to reach me **ratneshpatel8815@gmail.com**
-
 - ⚡ Fun fact--> **Code spells magic in bytes.**
+ <br/>
+**You can find me on:**
 
+[<img src="https://img.shields.io/badge/website-%233867D6.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOpJREFUeNpiYBjW4P///wpA3A/E5/9jgvNQOQVyDe//TzzoJ8VgATQXv0di34dibHIgPQLEWIBs+HwgTkDiO0AxDARA1RBnCVqwJEDF1sM0Y3HEeig/gWBwQSMU7nKk4EKxEN1AJDFknyhQGqlERzoTkh0OVEzhDth8AAMFSJEJ8/Z+LOr3Q+UakMQC0IOOBRbWSHovMDIyHoCK+5Po8g/oAky0Lg3AFgBdjGwzsm8+kmieALEZjFJwHlsQHaBiyBwgKqOhpa5+pNTVj6X4OI83o9G8qMBRkpJc2A18cU3zCoduVeaQAQABBgBb2mB8ePpZSAAAAABJRU5ErkJggg==">](https://ratneshpatel.vercel.app/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ratnesh-patel-064682240/)
+[<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/ratnesh_patel.8815/)
 <br/>
-
 <details>
 <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 <br/>
@@ -39,14 +38,7 @@ I'm a passionate and creative web developer from [India](https://www.google.com/
 <img src="https://github-readme-stats.vercel.app/api?username=ratneshpatelr&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratneshpatelr&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top or Most Used Languages" align="top"/>
 </details>
-
-
 <br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratneshpatelr" alt="ratneshpatelr" /></a> </p>
-
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ratneshpatelr&&style=flat-square" align="center" />
 </div>
